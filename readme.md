@@ -8,4 +8,4 @@ The second model was a Stacking Model. It combined the predictions from a Random
 
 The stacking model generates different predictions everytime. I ran the model twice and stored the predictions in stacking_prediction.csv and stacking_prediction2.csv, which achieved an RMSE score of 0.12172 and 0.12167 respectively. 
 
-Both models use feature engineering, however stacking does a bit more, as some of the feature engineering was increase the RMSE score for the linear regression model. 
+Both models use feature engineering, however stacking does a bit more, as some of the feature engineering was increasing the RMSE score for the linear regression model. 
